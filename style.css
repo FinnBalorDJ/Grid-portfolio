@@ -16,7 +16,7 @@ body {
     justify-content: space-evenly;
     align-items: center;
     gap: 20px;
-    background: linear-gradient(to right , #041308, #0b3317 );
+    background: linear-gradient(to right  , rgb(17, 17, 17) , rgb(30, 54, 48) );
 }
 
 .left-text {
